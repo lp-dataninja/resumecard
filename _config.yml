@@ -1,7 +1,7 @@
 # Site settings
 title: Ladle Patel's CV 
 description: ladlepatel's CV
-favicon: /assets/img/avatar.jpg
+favicon: https://github.com/lp-dataninja/resumecard/blob/gh-pages/assets/img/avatar.jpg
 baseurl: https://ddbullfrog.github.io/resumecard
 url: https://ddbullfrog.github.io/resumecard
 rss_url: /pages/atom.xml

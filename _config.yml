@@ -1,7 +1,7 @@
 # Site settings
 title: Ladle Patel's CV 
 description: ladlepatel's CV
-favicon: /assets/img/avatar.JPG
+favicon: /assets/img/avatarJPG.jpg
 baseurl: https://ddbullfrog.github.io/resumecard
 url: https://ddbullfrog.github.io/resumecard
 rss_url: /pages/atom.xml
@@ -15,7 +15,7 @@ exclude: [vendor]
 # Author settings
 author:
   name: Ladle Patel
-  title: Data Scientish
+  title: Data Scientist
   address: Hyderabad, India
   email: lp-dataninja@gmail.com
   link: http://ladlepatel.com
@@ -55,7 +55,7 @@ author:
       degree: Bachelor
       major: Computer Science
       started: 2007
-      duration: (2007 - 2011)
+      duration: (2006 - 2010)
       description: Studied Artificial Intelligence, Data Structures and Algorithms, Data Communication, Discrete Mathematics, Databases systems, Operating systems, Software Engineering as the part of curriculum 
   languages:
     - language1:
@@ -79,7 +79,7 @@ author:
       percentage: 100%
     - skill4:
       name: Tensorflow
-      percentage: 70%
+      percentage: 90%
     - skill5:
       name: Java
       percentage: 100%

@@ -1,6 +1,6 @@
 # Site settings
-title: Dong Liang's CV 
-description: ddbullfrog's CV
+title: Ladle Patel's CV 
+description: ladlepatel's CV
 favicon: /assets/img/avatar.JPG
 baseurl: https://ddbullfrog.github.io/resumecard
 url: https://ddbullfrog.github.io/resumecard
@@ -14,72 +14,72 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Dong Liang
-  title: Java Developer
-  address: Auckland, New Zealand
-  email: dongg.liang#gmail.com
-  link: http://ddbullfrog.com
+  name: Ladle Patel
+  title: Data Scientish
+  address: Hyderabad, India
+  email: lp-dataninja@gmail.com
+  link: http://ladlepatel.com
   weibo:
-  github: ddbullfrog
-  linkedin: ddbullfrog
-  twitter: ddbullfrog
+  github: lp-dataninja
+  linkedin: ladlepatel
+  twitter: ladlepatel
   gavatar: /resumecard/assets/img/avatar.JPG
   stackoverflow:
 #  stackoverflow: 4582127
   workHistory:
     - work1:
-      company: XXX Ltd
-      location: Auckland, New Zealand
-      title: Java Developer
-      started: 2014
-      duration: (2014 - Present)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: Genpact
+      location: India
+      title: Lead Data Scientist
+      started: 2016
+      duration: (2016 - Present)
+      description:  Part of the Data Science and Engineering team, providing large scale machine learning solutions in multiple domains. Incorporate machine learning and deep learning based solutions for the customers in conjunction with Chief Science Office. Design and implement end to end machine learning solutions for big data. Deploy machine learning models in production as APIs,periodically validate and optimize machine learning model which are deployed in production. 
     - work2:
-      company: XXX Ltd
-      location: Shanghai, China
-      title: Java Developer
-      started: 2012
-      duration: (2012 - 2014)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: TCS Analytics & Insights, R&D
+      location: Bangalore, India
+      title: Data Scientist
+      started: 2015
+      duration: (2015 - 2016)
+      description: Development of various Big Data applications using open source frameworks like Apache Spark, Apache Hadoop(YARN+MR) and languages like Scala, Python and Java. Part R&D team to build new analytics POC's using Apache Spark and machine learning.
     - work3:
-      company: XXX Ltd
-      location: Shanghai, China
-      title: Java Developer
-      started: 2009
-      duration: (2009 - 2012)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: Thomson Reuters
+      location: Bangalore, India
+      title: Software Engineer
+      started: 2011
+      duration: (2011 - 2015)
+      description: Analyzes the requirements provided by the business analyst and prepares Low level designs and other development artifacts. Designing and Development of Java applications and on Apache Hadoop(YARN+MR). Development and Unit testing based on design document given. Fix the Bugs identified by the QA team
   educationHistory:
     - education1:
-      organization: XXXXXX University
-      location: Shenyang, China
+      organization: Visvesvaraya Technological University
+      location: Karnataka, India
       degree: Bachelor
-      major: Software Engineering
-      started: 2005
-      duration: (2005 - 2009)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      major: Computer Science
+      started: 2007
+      duration: (2007 - 2011)
+      description: Studied Artificial Intelligence, Data Structures and Algorithms, Data Communication, Discrete Mathematics, Databases systems, Operating systems, Software Engineering as the part of curriculum 
   languages:
     - language1:
-      name: Chinese
+      name: Kannada 
       proficiency: Native
     - language2:
       name: English
       proficiency: Professional
     - language3:
-      name: Japanese
+      name: Hindi
       proficiency: Limit
   programmingSkills:
     - skill1:
-      name: HTML
+      name: Python
       percentage: 100%
     - skill2:
-      name: Bootstrap
+      name: Hadoop
       percentage: 90%
     - skill3:
-      name: JavaScript
-      percentage: 70%
+      name: Apache Spark
+      percentage: 100%
     - skill4:
-      name: AngularJS
+      name: Tensorflow
       percentage: 70%
     - skill5:
-      name: Java/Java EE
-      percentage: 90%
+      name: Java
+      percentage: 100%

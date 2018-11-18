@@ -67,7 +67,7 @@ author:
     - language3:
       name: Hindi
       proficiency: Native
-  Skills:
+  programmingSkills:
     - skill1:
       name: Python
       percentage: 100%

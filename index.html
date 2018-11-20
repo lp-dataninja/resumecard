@@ -91,8 +91,8 @@ layout: default
             {% endif %}
         </div>
         <div class="col-md-4">
-            {% if site.author.stackoverflow or site.author.programmingSkills %}
-                <h3 class="title with-icon"><span class="fa fa-code cat-title"></span> Programming Skills</h3>
+            {% if site.author.stackoverflow or site.author.Skills %}
+                <h3 class="title with-icon"><span class="fa fa-code cat-title"></span> Skills</h3>
                 {% if site.author.stackoverflow %}
                 <div class="grid-block">
                   <p><a href="//stackoverflow.com/users/{{ site.author.stackoverflow }}"><img src="//stackoverflow.com/users/flair/{{ site.author.stackoverflow }}.png"></a></p>
@@ -215,18 +215,18 @@ layout: default
                   </script>
                 </div>
                 {% endif %}
-                {% if site.author.programmingSkills %}
+                {% if site.author.Skills %}
                 <div class="grid-block">
                     <ul class="list-unstyled list-skills">
-                        {% for programmingSkill in site.author.programmingSkills %}
+                        {% for Skill in site.author.Skills %}
                             <li>
-                                {% if programmingSkill.name %}
-                                    <span class="caption-skill">{{ programmingSkill.name }}</span>
+                                {% if Skill.name %}
+                                    <span class="caption-skill">{{ Skill.name }}</span>
                                 {% endif %}
-                                {% if programmingSkill.percentage %}
+                                {% if Skill.percentage %}
                                     <div class="progress">
-                                        <div class="progress-bar" style="width: {{ programmingSkill.percentage }}">
-                                            <span>{{ programmingSkill.percentage }} </span>
+                                        <div class="progress-bar" style="width: {{ Skill.percentage }}">
+                                            <span>{{ Skill.percentage }} </span>
                                         </div>
                                     </div>
                                 {% endif %}
